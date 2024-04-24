@@ -18,3 +18,14 @@
     ```
     pip install -r requirements_non_GPU.txt
     ```
+
+---
+
+## Data Aggregation
+
+File [src/exploration](data_aggregation.py) sorts through all data files under `data/crimes_outcomes_stopnsearch` and constructs singular CSV / Parquet files for each of the following categories:
+  1. Crimes
+  2. Crime Outcomes
+  3. Stop and Search actions.
+
+Stores curated files under `data/curatad_data`
