@@ -14,19 +14,12 @@ Execute the following command in your command line of choice:
 
 > Package manager of choice - `conda`. Feel free to use any package manager you like.
 
-
-- If your device supports **CUDA** computation (has an NVIDIA GPU), use `requirements_GPU.txt` to install dependencies
-
-    ```
-    pip install -r requirements_GPU.txt
-    ```
-
-- If your device does not support **CUDA** computation, use `requirements_non_GPU.txt` to install dependencies
+- activate your environment of choice and install dependencies
 
     ```
-    pip install -r requirements_non_GPU.txt
+    pip install -r requirements.txt
     ```
-
+    
 ---
 
 ## Data Download
@@ -34,11 +27,11 @@ Execute the following command in your command line of choice:
 ### Step 1: Download Data
 Head over to the [data.police.uk/data/](https://data.police.uk/data/) website and select the following options:
   1. Forces
-     - [ ] 'All Forces'
+     - [X] 'Metropolitan Police Service'
   2. Data Sets 
-     - [ ] 'Include crime data'
-     - [ ] 'Include outcomes data'
-     - [ ] 'Include stop and search data'
+     - [X] 'Include crime data'
+     - [X] 'Include outcomes data'
+     - [X] 'Include stop and search data'
 
 Then, click 'generate file' and then download the generated data
 

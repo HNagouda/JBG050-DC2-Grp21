@@ -1,6 +1,4 @@
 # Regular packages
 dask[complete]
-datashader
 pyarrow
-holoviews
 ipykernel
