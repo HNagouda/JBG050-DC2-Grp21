@@ -26,9 +26,11 @@ Execute the following command in your command line of choice:
 
 ### Step 1: Download Data
 Head over to the [data.police.uk/data/](https://data.police.uk/data/) website and select the following options:
-  1. Forces
+  1. Date range
+     - [X] January 2023 - February 2024
+  2. Forces
      - [X] 'Metropolitan Police Service'
-  2. Data Sets 
+  3. Data Sets 
      - [X] 'Include crime data'
      - [X] 'Include outcomes data'
      - [X] 'Include stop and search data'
