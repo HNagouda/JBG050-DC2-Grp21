@@ -2,3 +2,4 @@
 dask[complete]
 pyarrow
 ipykernel
+openpyxl
