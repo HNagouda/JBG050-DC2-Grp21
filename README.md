@@ -1,4 +1,12 @@
 # JBG050-DC2-Grp21
+> Repository for the project of Group 21 for the Data Challenge 2 of the course JBG050 at the Technical University of Eindhoven
+
+## Collaborators
+- Harsh Nagouda *#1893580*
+- Szymon Kozak *1881329*
+- Petya Petrova *#1917838*
+- Evangelos Matzavino *#1781871*
+- Tino aan den Boom *#1890808*
 
 ## Clone Repository
 > Navigate to your directory of choice to clone the repository
