@@ -1,5 +1,12 @@
-# Regular packages
-dask[complete]
-pyarrow
-ipykernel
+numpy
+pandas
 openpyxl
+tqdm
+jupyter
+ipykernel
+matplotlib 
+seaborn
+plotly
+statsmodels
+scikit-learn
+xgboost
